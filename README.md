@@ -4,10 +4,10 @@ A responsive webpage project featuring a Header, Content, and Footer layout. Thi
 
 📌 Features
 
-Semantic HTML structure
-Responsive design using CSS Flexbox
-Modular and maintainable CSS
-Clean and readable layout with distinct sections
+Semantic HTML structure\
+Responsive design using CSS Flexbox\
+Modular and maintainable CSS\
+Clean and readable layout with distinct sections\
 
 🛠️ Technologies Used
 
