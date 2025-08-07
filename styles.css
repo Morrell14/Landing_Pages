@@ -121,6 +121,8 @@ button {
     display: flex;
     flex-direction: column;
     background-color: #E5E7EB;
+    justify-content: center;
+    align-items: center;
 }
 
 .content {
@@ -144,3 +146,38 @@ button {
     margin:20px;
 }
 
+.container_sign_up {
+    display: flex;
+    justify-content: space-between;
+    background-color: #3882F6;
+    padding: 70px;
+    margin: 100px;
+    border-radius: 10px;
+
+
+}
+
+.left_info {
+    color: white;
+    font-size: medium;
+}
+
+.right_info {
+    border: solid;
+    color: white;
+    border-radius: 5px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer {
+    display: flex;
+    background-color: #1F2937;
+    text-align: center;
+    height: 100px;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
