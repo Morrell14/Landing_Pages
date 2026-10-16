@@ -1,15 +1,16 @@
-# 💻 FlexBox Showcase Webpage
+# Flexbox Landing Page
 
-A responsive webpage project featuring a Header, Content, and Footer layout. This project is designed to demonstrate core HTML and CSS skills with a strong emphasis on Flexbox layout techniques.
+A static landing page exercise built with HTML and CSS. Includes a navigation header, hero section, information cards, a quote section, and signup buttons.
 
-📌 Features
+**Stack:** HTML, CSS, Flexbox.
 
-Semantic HTML structure\
-Responsive design using CSS Flexbox\
-Modular and maintainable CSS\
-Clean and readable layout with distinct sections\
+## View locally
 
-🛠️ Technologies Used
+Open `index.html` in a web browser. No installation or build step is needed.
 
-HTML5
-CSS3 (with Flexbox)
+## Files
+
+- `index.html`: page structure and content.
+- `styles.css`: layout and styling.
+
+The buttons and placeholder links are part of the layout exercise.
